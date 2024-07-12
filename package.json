@@ -1,7 +1,7 @@
 {
   "name": "next_js_practice",
   "version": "1.0.0",
-  "description": "노마드 코더 next js 강의 수강",
+  "description": "영화 정보 조회 웹 사이트",
   "main": "index.js",
   "scripts": {
     "dev": "next dev",
