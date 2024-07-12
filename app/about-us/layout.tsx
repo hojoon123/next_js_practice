@@ -2,7 +2,7 @@ export default function Layout({children}: {children: React.ReactNode}) {
   return (
     <div>
       {children}
-      &copy; Next Js is great!
+      &copy; GitHub: hojoon123
     </div>
   );
 }

@@ -5,7 +5,7 @@ export const metadata = {
 export default function AboutUs(){
     return (
         <div>
-            <h1>About Us!</h1>
+            <h3>준준바리 next 첫 연습</h3>
         </div>
     )
 }
