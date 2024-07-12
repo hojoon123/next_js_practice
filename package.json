@@ -4,7 +4,9 @@
   "description": "노마드 코더 next js 강의 수강",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
   },
   "keywords": [],
   "author": "",
