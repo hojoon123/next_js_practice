@@ -1,2 +1,2 @@
 # next_js_practice
-노마드 코더 next js 강의 수강
+영화 정보 조회 웹 사이트
